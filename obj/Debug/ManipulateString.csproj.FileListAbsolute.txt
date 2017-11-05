@@ -1,0 +1,7 @@
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\bin\Debug\ManipulateString.exe.config
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\bin\Debug\ManipulateString.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\bin\Debug\ManipulateString.pdb
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\obj\Debug\ManipulateString.csprojResolveAssemblyReference.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\obj\Debug\ManipulateString.csproj.CoreCompileInputs.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\obj\Debug\ManipulateString.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ManipulateString\ManipulateString\obj\Debug\ManipulateString.pdb
